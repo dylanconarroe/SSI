@@ -1,4 +1,3 @@
-CSC 360 Assignment P1
 
 Feature 1:
 	
